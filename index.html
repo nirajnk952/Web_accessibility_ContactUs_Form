@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wl contact Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <div class="container" id="main-content">
+        <div class="logo">
+            <img src="logo.jpeg" alt="Company Logo">
+        </div>
+        <form id="contact-form" aria-labelledby="contact-form-title" aria-live="assertive" aria-atomic="true">
+            <h1 id="contact-form-title">Contact Us</h1>
+
+            <div class="form-group">
+                <label for="name">Name <span aria-hidden="true">*</span></label>
+                <input type="text" id="name" name="name" autocomplete="name" aria-required="true" aria-describedby="name-desc" aria-label="Your Name" required>
+                <div id="name-desc" class="sr-only">Enter your full name, e.g., Niraj Kumar</div>
+                <div id="name-error" class="error-message" aria-live="assertive" aria-hidden="true"></div>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email <span aria-hidden="true">*</span></label>
+                <input type="email" id="email" name="email" autocomplete="email" aria-required="true" aria-describedby="email-desc" aria-label="Your Email Address" required>
+                <div id="email-desc" class="sr-only">Enter your email address, e.g., niraj.nk952@gmail.com</div>
+                <div id="email-error" class="error-message" aria-live="assertive" aria-hidden="true"></div>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Message <span aria-hidden="true">*</span></label>
+                <textarea id="message" name="message" rows="4" autocomplete="off" aria-required="true" aria-describedby="message-desc" aria-label="Your Message" required></textarea>
+                <div id="message-desc" class="sr-only">Enter the message you want to send.</div>
+                <div id="message-error" class="error-message" aria-live="assertive" aria-hidden="true"></div>
+            </div>
+
+            <div class="form-group">
+                <label for="reason">Reason for Contact <span aria-hidden="true">*</span></label>
+                <select id="reason" name="reason" autocomplete="off" aria-required="true" aria-describedby="reason-desc" aria-label="Reason for Contact" required>
+                    <option value="" disabled selected>Select a reason</option>
+                    <option value="support">Support</option>
+                    <option value="sales">Sales</option>
+                    <option value="feedback">Feedback</option>
+                </select>
+                <div id="reason-desc" class="sr-only">Select the reason for contacting us.</div>
+                <div id="reason-error" class="error-message" aria-live="assertive" aria-hidden="true"></div>
+            </div>
+
+            <fieldset aria-labelledby="preferences-title" class="checkbox-group">
+                <legend id="preferences-title">Preferences</legend>
+                <div>
+                    <input type="checkbox" id="subscribe" name="subscribe" aria-checked="false" aria-labelledby="subscribe-label" aria-describedby="subscribeDesc">
+                    <label id="subscribe-label" for="subscribe">Subscribe to newsletter</label>
+                    <small id="subscribeDesc">Receive updates and promotions via email.</small>
+                </div>
+                <div>
+                    <input type="checkbox" id="updates" name="updates" aria-checked="false" aria-labelledby="updates-label" aria-describedby="updatesDesc">
+                    <label id="updates-label" for="updates">Receive product updates</label>
+                    <small id="updatesDesc">Get notified about new features and updates.</small>
+                </div>
+            </fieldset>
+
+            <fieldset aria-labelledby="contact-method-title" class="radio-group">
+                <legend id="contact-method-title">Preferred Contact Method</legend>
+                <div>
+                    <input type="radio" id="contact-email" name="contact-method" value="email" aria-checked="false" aria-labelledby="contact-email-label" aria-label="Preferred contact method email">
+                    <label id="contact-email-label" for="contact-email">Email</label>
+                </div>
+                <div>
+                    <input type="radio" id="contact-phone" name="contact-method" value="phone" aria-checked="false" aria-labelledby="contact-phone-label" aria-label="Preferred contact method phone">
+                    <label id="contact-phone-label" for="contact-phone">Phone</label>
+                </div>
+            </fieldset>
+
+            <div id="form-messages" aria-live="assertive" aria-atomic="true" tabindex="-1"></div>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="success-message" aria-live="polite" aria-atomic="true" class="hidden" tabindex="-1">
+            Thank you for contacting us. Your form has been submitted successfully.
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
