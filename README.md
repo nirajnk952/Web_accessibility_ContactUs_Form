@@ -42,6 +42,13 @@ Demo Images :
 - `aria-label`: Provides an accessible name for elements.
 - `tabindex`: Controls the tab order of elements.
 
+
+## Form Structure
+- Skip Link: Allows users to skip directly to the main content.
+- Logo Section: Displays the company logo.
+- Form Fields:
+- Form Messages: Displays success or error messages dynamically, with ARIA live regions.
+
 ## How to Use
 
 1. **Clone the repository:**
