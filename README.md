@@ -57,7 +57,7 @@ Demo Images :
    ```bash
    open index.html
 
-## Demo Images :
+## Screenshot Images (I have used Wave Automation Tools for evaluating Accessibility:
 
 
 <img width="1440" alt="Screenshot 2024-07-24 at 7 03 23 PM" src="https://github.com/user-attachments/assets/cd994702-40a4-4f48-a3f6-621893ce7226"> 
