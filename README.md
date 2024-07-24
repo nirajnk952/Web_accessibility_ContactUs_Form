@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-07-24 at 5 47 40 PM" src="https://github.com/user-attachments/assets/02e2c475-a569-4bcf-b973-dd5baaa4e9cd"># Web_accessibility_ContactUs_Form
+Web_accessibility_ContactUs_Form
 
 This project is a web-based contact form designed with accessibility in mind, using various ARIA attributes to ensure it is usable by everyone, including those who rely on screen readers and other assistive technologies.
 
