@@ -60,7 +60,8 @@ Demo Images :
 ## Demo Images :
 
 
-<img width="1440" alt="Screenshot 2024-07-24 at 7 03 23 PM" src="https://github.com/user-attachments/assets/cd994702-40a4-4f48-a3f6-621893ce7226"> <img width="1440" alt="Screenshot 2024-07-24 at 7 03 54 PM" src="https://github.com/user-attachments/assets/2d9b1d86-eeea-4ff2-828f-2cf71952fae6">
+<img width="1440" alt="Screenshot 2024-07-24 at 7 03 23 PM" src="https://github.com/user-attachments/assets/cd994702-40a4-4f48-a3f6-621893ce7226"> 
+<img width="1440" alt="Screenshot 2024-07-24 at 7 03 54 PM" src="https://github.com/user-attachments/assets/2d9b1d86-eeea-4ff2-828f-2cf71952fae6">
 
 
 
