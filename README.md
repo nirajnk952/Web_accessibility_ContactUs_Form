@@ -1,6 +1,6 @@
 ## Web_accessibility_ContactUs_Form
 
-This project is a web-based contact form designed with accessibility in mind, using various ARIA attributes to ensure it is usable by everyone, including those who rely on screen readers and other assistive technologies.
+This project is a web-based contact form designed with accessibility, using various ARIA attributes to ensure it is usable by everyone, including those who rely on screen readers and other assistive technologies.
 
 Demo Video (Manual Testing with Screen reader) : 
 
