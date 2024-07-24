@@ -2,7 +2,7 @@
 
 This project is a web-based contact form designed with accessibility in mind, using various ARIA attributes to ensure it is usable by everyone, including those who rely on screen readers and other assistive technologies.
 
-Demo Video : 
+Demo Video (Manual Testing with Screen reader) : 
 
 https://github.com/user-attachments/assets/c1881c3a-c4c6-47a9-989e-9d743cb083bc
 
@@ -46,7 +46,7 @@ Demo Images :
 ## Form Structure
 - Skip Link: Allows users to skip directly to the main content.
 - Logo Section: Displays the company logo.
-- Form Fields:
+- Form Fields: E.g - Name, mail, message etc.
 - Form Messages: Displays success or error messages dynamically, with ARIA live regions.
 
 ## How to Use
@@ -74,7 +74,7 @@ Demo Images :
 <img width="1440" alt="Screenshot 2024-07-24 at 7 05 17 PM" src="https://github.com/user-attachments/assets/9e02d877-1994-415b-aee7-37cf37106e86">
 
 
-## Screenshot Images  ( Used [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) automation tools for checking web accessibility, SEO & Performance of website.)
+## Screenshot Images  ( Used [Lighthouse Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) automation tools for checking web accessibility, SEO & Performance of website.)
 
 <img width="1440" alt="Screenshot 2024-07-24 at 7 22 53 PM" src="https://github.com/user-attachments/assets/632305aa-e1fc-4f94-849d-d889006ce7c6">
 
