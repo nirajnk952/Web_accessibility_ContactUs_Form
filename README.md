@@ -2,6 +2,12 @@
 
 This project is a web-based contact form designed with accessibility in mind, using various ARIA attributes to ensure it is usable by everyone, including those who rely on screen readers and other assistive technologies.
 
+Demo Video : 
+
+https://github.com/user-attachments/assets/c1881c3a-c4c6-47a9-989e-9d743cb083bc
+
+
+
 Demo Images :
 
 <img width="1440" alt="Screenshot 2024-07-24 at 5 47 40 PM" src="https://github.com/user-attachments/assets/4e7f4855-cea5-4b64-97c1-62ae3187fde6">
