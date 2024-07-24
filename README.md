@@ -49,6 +49,11 @@ Demo Images :
    ```bash
    git clone https://github.com/nirajnk952/Web_accessibility_ContactUs_Form.git
 
-2. **Navigate to the project directory:
+2. **Navigate to the project directory:**
       ```bash
    cd Web_accessibility_ContactUs_Form
+
+3. **Open index.html in your web browser:**
+```bash
+   open index.html
+      
