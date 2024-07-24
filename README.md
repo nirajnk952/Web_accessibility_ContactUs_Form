@@ -47,4 +47,8 @@ Demo Images :
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/contact-form-aria.git
+   git clone https://github.com/nirajnk952/Web_accessibility_ContactUs_Form.git
+
+2. **Navigate to the project directory:
+      ```bash
+   cd Web_accessibility_ContactUs_Form
