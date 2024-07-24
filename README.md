@@ -57,7 +57,10 @@ Demo Images :
 ```bash
    open index.html
 
-Demo Images : <img width="1440" alt="Screenshot 2024-07-24 at 7 05 17 PM" src="https://github.com/user-attachments/assets/9fe8aee8-c27b-4fa3-9dfd-190463614beb"> <img width="1440" alt="Screenshot 2024-07-24 at 7 04 47 PM" src="https://github.com/user-attachments/assets/b76d4b1e-42bc-42fc-b05c-a15cc5fe74d1">
+Demo Images :
+
+<img width="1440" alt="Screenshot 2024-07-24 at 7 05 17 PM" src="https://github.com/user-attachments/assets/9fe8aee8-c27b-4fa3-9dfd-190463614beb">
+<img width="1440" alt="Screenshot 2024-07-24 at 7 04 47 PM" src="https://github.com/user-attachments/assets/b76d4b1e-42bc-42fc-b05c-a15cc5fe74d1">
 
  
 
