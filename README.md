@@ -67,6 +67,11 @@ Demo Images :
 <img width="1440" alt="Screenshot 2024-07-24 at 7 05 17 PM" src="https://github.com/user-attachments/assets/9e02d877-1994-415b-aee7-37cf37106e86">
 
 
+## Screenshot Images  ( Used [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) automation tools for checking web accessibility, SEO & Performance of website.)
+
+<img width="1440" alt="Screenshot 2024-07-24 at 7 22 53 PM" src="https://github.com/user-attachments/assets/632305aa-e1fc-4f94-849d-d889006ce7c6">
+
+
 
 
 
